@@ -1,0 +1,14 @@
+{
+  "name": "word-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map src/main.scss src/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.72.0"
+  }
+}
