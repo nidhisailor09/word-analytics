@@ -14,4 +14,4 @@ npm install sass
 After that make changes in the package.json file, inside script property add compile script under which add:
 sass --watch --no-source-map main.scss style.css
 
-<img src="Word-Analytics/SS1.png" alt="screenshot">
+<img src="/Users/nidhisailor/Desktop/Javascript/all-js-code/Word-Analytics/SS1.png" alt="screenshot">
